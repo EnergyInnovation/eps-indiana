@@ -1,11 +1,11 @@
 MW,urban residential,rural residential,commercial
 hard coal,0.0,0.0,0.0
 natural gas steam turbine,0.0,0.0,0.0
-natural gas nonpeaker,0.0,0.0,0.0
+natural gas combined cycle,0.0,0.0,0.0
 nuclear,0.0,0.0,0.0
 hydro,0.0,0.0,0.0
 onshore wind,0.0,0.0,0.0
-solar PV,54.77089494112622,20.879512436119867,108.98595625911683
+solar PV,56.1012,22.7189,149.542
 solar thermal,0.0,0.0,0.0
 biomass,0.0,0.0,0.0
 geothermal,0.0,0.0,0.0
